@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [thevseprod/humanizer-ru](https://github.com/thevseprod/humanizer-ru) - Russian + English AI-text cleanup: removes em dashes, bureaucratese and stock phrases, keeps facts and hedges, never invents. Rules for any chat or a Claude Code plugin.
 
 
 ## 📘 Learning & Knowledge  
